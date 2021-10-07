@@ -1,3 +1,8 @@
+# Autor
+
+<div class="github-card" data-github="acacha" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 # Comptador
 Comptador Android
 
