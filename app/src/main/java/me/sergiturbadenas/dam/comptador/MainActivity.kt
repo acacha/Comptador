@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
   private var timeLeftOnTimer: Long = 60000
 
   companion object {
-    private val TAG = MainActivityRAY::class.java.simpleName
+    private val TAG = MainActivity::class.java.simpleName
     private const val KEY_SCORE = "KEY_SCORE"
     private const val KEY_TIME_LEFT = "KEY_TIME_LEFT"
   }
