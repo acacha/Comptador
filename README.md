@@ -21,3 +21,11 @@ Llista de reproducció Android:
 # Sponsorhip
 
 Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github i feu clic Sponsor a https://github.com/acacha
+
+# Codi font dels alumnes
+
+- Tur Badenas, Sergi:
+
+# Link a Play Store
+
+- Tur Badenas, Sergi:
