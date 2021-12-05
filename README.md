@@ -24,7 +24,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 
 # Codi font dels alumnes
 
-- Tur Badenas, Sergi:
+- Tur Badenas, Sergi: https://github.com/acacha/Comptador
 
 # Link a Play Store
 
