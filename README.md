@@ -26,8 +26,10 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 
 - Tur Badenas, Sergi: https://github.com/acacha/Comptador
 - Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
+- Brusca Manchón, Albert: https://github.com/Albert-Brusca/abruscaAndroid/tree/main/Comptador
 
 # Link a Play Store
 
 - Tur Badenas, Sergi:
 - Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
+- Brusca Manchón, Albert: https://play.google.com/store/apps/details?id=me.albertbruscamanchon.dam.comptador
