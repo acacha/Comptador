@@ -32,7 +32,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 
 # Link a Play Store
 
-- Avante Caballé, Marc: https://play.google.com/console/u/0/developers/6826039796457395604/app/4975275345426616863/app-dashboard?timespan=thirtyDays
+- Avante Caballé, Marc: https://play.google.com/store/apps/details?id=me.marcavantecaballe.dam.comptador
 - Brusca Manchón, Albert: https://play.google.com/store/apps/details?id=me.albertbruscamanchon.dam.comptador
 - Goncear, Tudor: https://play.google.com/store/apps/details?id=me.tudorgoncear.dam.myapplication
 - Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
