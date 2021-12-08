@@ -28,6 +28,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 - Goncear, Tudor: https://github.com/tgoncear/tgoncearAndroid
 - Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
 - Tur Badenas, Sergi: https://github.com/acacha/Comptador
+- Moreno Giraldo, Jhon | https://github.com/Jhon1348/AndroidCom
 
 # Link a Play Store
 
