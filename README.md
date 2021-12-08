@@ -24,14 +24,14 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 
 # Codi font dels alumnes
 
-- Goncear, Tudor: https://github.com/tgoncear/tgoncearAndroid
-- Tur Badenas, Sergi: https://github.com/acacha/Comptador
-- Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/abruscaAndroid/tree/main/Comptador
+- Goncear, Tudor: https://github.com/tgoncear/tgoncearAndroid
+- Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
+- Tur Badenas, Sergi: https://github.com/acacha/Comptador
 
 # Link a Play Store
 
-- Goncear, Tudor: https://play.google.com/store/apps/details?id=me.tudorgoncear.dam.myapplication
-- Tur Badenas, Sergi:
-- Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
 - Brusca Manchón, Albert: https://play.google.com/store/apps/details?id=me.albertbruscamanchon.dam.comptador
+- Goncear, Tudor: https://play.google.com/store/apps/details?id=me.tudorgoncear.dam.myapplication
+- Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
+- Tur Badenas, Sergi:
