@@ -32,6 +32,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 - Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/Primera-aplicacio-Comptador
 - Rius Rivas, Alba | AlbaRiius: https://github.com/AlbaRiius/Comptador
+- Gabriel Urs, | l3lackJack | https://github.com/l3lackJack/comptador
 - Tomas Altadill, Axel | AxelTomas99: https://github.com/AxelTomas99/Comptador
 - Tur Badenas, Sergi: https://github.com/acacha/Comptador
 
@@ -45,5 +46,6 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 - Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
 - Muñoz Zafra, Ferran | https://play.google.com/store/apps/details?id=me.ferranmunozzafra.dam.comptador
 - Rius Rivas, Alba | AlbaRiius: https://play.google.com/store/apps/details?id=codes.albarius.comptador
+- Gabriel Urs | l3lackJack | https://play.google.com/store/apps/details?id=me.gabrielurs.comptador
 - Tomas Altadill, Axel | AxelTomas99: https://play.google.com/store/apps/details?id=me.axeltomas.dam.comptador
 - Tur Badenas, Sergi:
