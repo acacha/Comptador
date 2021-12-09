@@ -24,6 +24,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 
 # Codi font dels alumnes
 
+- Avante Caballé, Marc: https://github.com/AvanteCaballe/Comptador
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/abruscaAndroid/tree/main/Comptador
 - Goncear, Tudor: https://github.com/tgoncear/tgoncearAndroid
 - Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
@@ -32,6 +33,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 
 # Link a Play Store
 
+- Avante Caballé, Marc: https://play.google.com/store/apps/details?id=me.marcavantecaballe.dam.comptador
 - Brusca Manchón, Albert: https://play.google.com/store/apps/details?id=me.albertbruscamanchon.dam.comptador
 - Goncear, Tudor: https://play.google.com/store/apps/details?id=me.tudorgoncear.dam.myapplication
 - Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
