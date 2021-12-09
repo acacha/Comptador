@@ -31,6 +31,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 - Moreno Giraldo, Jhon | https://github.com/Jhon1348/AndroidCom
 - Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/Primera-aplicacio-Comptador
+- Rius Rivas, Alba | AlbaRiius: https://github.com/AlbaRiius/Comptador
 - Tur Badenas, Sergi: https://github.com/acacha/Comptador
 
 
@@ -42,4 +43,5 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 - Goncear, Tudor: https://play.google.com/store/apps/details?id=me.tudorgoncear.dam.myapplication
 - Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
 - Muñoz Zafra, Ferran | https://play.google.com/store/apps/details?id=me.ferranmunozzafra.dam.comptador
+- Rius Rivas, Alba | AlbaRiius: https://play.google.com/store/apps/details?id=codes.albarius.comptador
 - Tur Badenas, Sergi:
