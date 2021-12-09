@@ -28,6 +28,7 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/abruscaAndroid/tree/main/Comptador
 - Goncear, Tudor: https://github.com/tgoncear/tgoncearAndroid
 - Pont Lopez, David | Palanka777 | https://github.com/Palanka777/Comptador.git
+- Audí Bielsa, Dani | daudi44 | https://github.com/daudi44/Comptador
 - Tur Badenas, Sergi: https://github.com/acacha/Comptador
 - Moreno Giraldo, Jhon | https://github.com/Jhon1348/AndroidCom
 
@@ -37,4 +38,5 @@ Si us agrada la meva feina i voleu contribuir consulteu el meu perfil de Github 
 - Brusca Manchón, Albert: https://play.google.com/store/apps/details?id=me.albertbruscamanchon.dam.comptador
 - Goncear, Tudor: https://play.google.com/store/apps/details?id=me.tudorgoncear.dam.myapplication
 - Pont Lopez, David | Palanka777 | https://play.google.com/store/apps/details?id=me.davidpont.dam.comptador
+- Audí Bielsa, Dani | daudi44 | https://play.google.com/store/apps/details?id=me.danielaudibielsa.dam.comptador
 - Tur Badenas, Sergi:
